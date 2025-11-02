@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/sufIdeen2023/ICT-CLOUDSOLUTION01/_apis/build/status%2Fsufideen.pipelines-java?branchName=master)](https://dev.azure.com/sufIdeen2023/ICT-CLOUDSOLUTION01/_build/latest?definitionId=24&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
